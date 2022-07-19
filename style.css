@@ -1,0 +1,29 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:45px;
+    color:#193784;
+    
+}
+h3 {
+    background-color: #ebebeb;
+    color:#4062bb;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:24px;
+    font-weight:strong;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    font-weight: 500;
+}
+
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    color:#52489c;   
+    font-size: 14px;
+}
+
+.high-light {
+    background-color: #CEEBEB;    
+}
